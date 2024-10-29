@@ -6,9 +6,5 @@ Repositorio de notas y recursos gratuitos para aprender Python, enfocado en brin
 
 El objetivo de este repositorio es crear una colección de recursos accesibles y de calidad para ayudar a cualquiera a aprender Python de manera efectiva y gratuita.
 
-# Menú de Aprendizaje de Lógica de Programación
-
-## Contenidos
-
 ###  Preparación a la certificación PCEP™ – CERTIFIED ENTRY-LEVEL PYTHON PROGRAM
 
