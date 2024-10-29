@@ -41,7 +41,7 @@ El objetivo de este repositorio es crear una colección de recursos accesibles y
 ---
 
 ## Introducción a la Lógica de Programación
-Una breve introducción sobre la importancia de la lógica de programación y cómo se aplica en el desarrollo de software.
+La lógica de programación es un conjunto de principios y técnicas que se utilizan para resolver problemas mediante la creación de algoritmos y el desarrollo de programas. Comprender la lógica de programación es fundamental para cualquier aspirante a programador o desarrollador, ya que forma la base sobre la cual se construyen las aplicaciones de software.
 
 ## Algoritmos
 ### Definición de Algoritmo
