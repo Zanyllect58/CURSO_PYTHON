@@ -31,7 +31,7 @@ La guía comienza con temas de **programación en Python**, esenciales para ente
 
 - **[Kaggle - SQL](https://www.kaggle.com/learn/intro-to-sql)**: Curso de introducción a SQL en Kaggle, esencial para el manejo de bases de datos en ciencia de datos.
 
--**[Kaggle - SQL (Avanzados)]https://www.kaggle.com/learn/advanced-sql
+- **[Kaggle - SQL (Avanzados)](https://www.kaggle.com/learn/advanced-sql)
 
 Este repositorio se actualizará continuamente con nuevos subtemas, prácticas y recursos útiles. ¡No olvides hacer un *star* ⭐ y estar atento a las próximas actualizaciones!
 
