@@ -37,6 +37,7 @@ La guía comienza con temas de **programación en Python**, esenciales para ente
 
 - **[Kaggle - SQL (Avanzados)](https://www.kaggle.com/learn/advanced-sql)**: Curso avanzado de SQL en Kaggle para profundizar en el manejo de bases de datos.
 
+- **[Freecodecamp - SQL](https://www.freecodecamp.org/espanol/learn/relational-database/#learn-bash-scripting-by-building-five-programs)
 ---
 
 Este repositorio se actualizará continuamente con nuevos subtemas, prácticas y recursos útiles. ¡No olvides hacer un *star* ⭐ y estar atento a las próximas actualizaciones!
