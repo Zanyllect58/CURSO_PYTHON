@@ -9,4 +9,7 @@ El objetivo de este repositorio es crear una colección de recursos accesibles y
 ## PREPARACIÓN A LA CERTIFICACIÓN PCEP™ – CERTIFIED ENTRY-LEVEL PYTHON PROGRAM
 
 ### CURSOS
+- [Kaggle - python ](https://www.kaggle.com/learn/python)
+  
 - [Python Essentials 1 - NetAcad](https://www.netacad.com/es/courses/python-essentials-1?courseLang=es-XL)
+
