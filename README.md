@@ -26,14 +26,21 @@ La guía comienza con temas de **programación en Python**, esenciales para ente
 - **[Python Essentials 1 - NetAcad](https://www.netacad.com/es/courses/python-essentials-1?courseLang=es-XL)**: Curso esencial de Python ofrecido por Cisco NetAcad, ideal para obtener una base sólida en programación.
 
 - **[Python Essentials 2 - NetAcad](https://www.netacad.com/es/courses/python-essentials-2?courseLang=es-XL)**: Curso avanzado de Python para consolidar y expandir tus habilidades de programación.
-  
+
+---
+
 ### **Curso de SQL: Desde Conceptos Básicos hasta Nivel Avanzado** 📘
+
+**Recursos recomendados:**
 
 - **[Kaggle - SQL](https://www.kaggle.com/learn/intro-to-sql)**: Curso de introducción a SQL en Kaggle, esencial para el manejo de bases de datos en ciencia de datos.
 
-- **[Kaggle - SQL (Avanzados)](https://www.kaggle.com/learn/advanced-sql)
+- **[Kaggle - SQL (Avanzados)](https://www.kaggle.com/learn/advanced-sql)**: Curso avanzado de SQL en Kaggle para profundizar en el manejo de bases de datos.
+
+---
 
 Este repositorio se actualizará continuamente con nuevos subtemas, prácticas y recursos útiles. ¡No olvides hacer un *star* ⭐ y estar atento a las próximas actualizaciones!
 
 ---
+
 
