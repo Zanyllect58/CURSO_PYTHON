@@ -1,4 +1,4 @@
-# **Notas de Aprendizaje de Machine Learning en Español** 🐍
+# **Notas de Aprendizaje de Machine Learning en Español** 
 
 Bienvenido a este repositorio de **notas de aprendizaje y recursos gratuitos sobre Machine Learning y Python** en español. Aquí encontrarás guías, ejemplos prácticos, y enlaces útiles para profundizar en el mundo de la programación y el análisis de datos, desde un nivel básico hasta avanzado.
 
@@ -21,7 +21,7 @@ Este repositorio incluye contenido diseñado para ayudarte a prepararte para la 
 
 ---
 
-## **Recursos de Python Avanzado** 📈
+## **Recursos de Python Principiante -  Avanzado** 🐍
 
 A continuación, encontrarás algunos cursos avanzados recomendados para profundizar tus conocimientos en Python:
 
